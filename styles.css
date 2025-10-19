@@ -1,19 +1,19 @@
 /*  your css code here. If applicable */
 #para1{
 	background-color:yellow;
-	border-width: 1px ;
+	border-width: 3px ;
 	border-style: solid;
 	border-color: green;
 }
 #para2{
 	background-color:red;
-	border-width: 1px;
+	border-width: 3px;
 	border-style: solid;
 	border-color: black;
 }
 #para3{
 	background-color:green;
-	border-width: 1px;
+	border-width: 3px;
 	border-style: solid;
 	border-color: yellow;
 }
